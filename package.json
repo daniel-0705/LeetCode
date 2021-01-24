@@ -1,0 +1,9 @@
+{
+  "name": "Leetcode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/daniel-0705/LeetCode.git",
+  "author": "daniel",
+  "license": "MIT",
+  "dependencies": {}
+}
