@@ -5,5 +5,8 @@
   "repository": "https://github.com/daniel-0705/LeetCode.git",
   "author": "daniel",
   "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {}
 }
