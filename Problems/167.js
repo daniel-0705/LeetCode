@@ -29,6 +29,9 @@ var twoSum = function (nums, target) {
   }
 };
 
+// LeetCode solution
+//   Approach 1: Two Pointers：如同上面的解題思路
+
 module.exports = {
   title: "Two Sum II - Input array is sorted",
   difficulty: "easy",

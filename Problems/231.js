@@ -18,6 +18,10 @@ var isPowerOfTwo = (n) => {
   return n > 0 ? !(n & (n - 1)) : false;
 };
 
+// LeetCode solution
+//   Approach 1: Bitwise Operators : Get the Rightmost 1-bit：若為 2 的某次方，則 n & (-n) === n;
+//   Approach 2: Bitwise operators : Turn off the Rightmost 1-bit：若為 2 的某次方，則 n & (n - 1) 會為 0;
+
 module.exports = {
   title: "Power of Two",
   difficulty: "easy",

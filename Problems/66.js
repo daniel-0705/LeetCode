@@ -15,6 +15,9 @@ var plusOne = function (digits) {
   return digits;
 };
 
+// LeetCode solution
+//   Approach 1: Schoolbook Addition with Carry：基本概念同上面的解題思路
+
 module.exports = {
   title: "Plus One",
   difficulty: "easy",

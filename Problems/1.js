@@ -7,7 +7,7 @@ var twoSum = function (nums, target) {
   }
 };
 
-// 解題思路：One-pass Hash Table
+// 解題思路：為 LeetCode solution 的第三個方法
 var twoSum = function (nums, target) {
   const numsMap = {};
 
@@ -19,6 +19,11 @@ var twoSum = function (nums, target) {
     }
   }
 };
+
+// LeetCode solution
+//   Approach 1: Brute Force：雙迴圈暴力解法
+//   Approach 2: Two-pass Hash Table：第一次迴圈，先將每個元素記錄在物件中，第二次迴圈再找該元素的互補數是否存在
+//   Approach 3: One-pass Hash Table：優化第二個方法，在一次迴圈中，先找有無該元素的互補數是否存在，若無就記錄元素於物件中
 
 module.exports = {
   title: "Two Sum",
