@@ -21,7 +21,7 @@ var fizzBuzz = function (n) {
 
 module.exports = {
   title: "Fizz Buzz",
-  difficulty: "easy",
+  difficulty: "Easy",
   related_topics: null,
   similar_questions: { 1195: true },
 };

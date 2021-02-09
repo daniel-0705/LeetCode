@@ -34,7 +34,7 @@ var twoSum = function (nums, target) {
 
 module.exports = {
   title: "Two Sum II - Input array is sorted",
-  difficulty: "easy",
+  difficulty: "Easy",
   related_topics: { Array: true, "Two Pointers": true, "Binary Search": true },
   similar_questions: { 1: true, 653: true, 1099: true },
 };

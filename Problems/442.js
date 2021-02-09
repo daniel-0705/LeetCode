@@ -23,7 +23,7 @@ var findDuplicates = function (nums) {
 
 module.exports = {
   title: "Find All Duplicates in an Array",
-  difficulty: "medium",
+  difficulty: "Medium",
   related_topics: { Array: true },
   similar_questions: { 448: true },
 };

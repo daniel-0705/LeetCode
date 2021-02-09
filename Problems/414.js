@@ -31,7 +31,7 @@ var thirdMax = function (nums) {
 
 module.exports = {
   title: "Third Maximum Number",
-  difficulty: "easy",
+  difficulty: "Easy",
   related_topics: { Array: true },
   similar_questions: { 215: true },
 };

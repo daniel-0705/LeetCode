@@ -27,7 +27,7 @@ var twoSum = function (nums, target) {
 
 module.exports = {
   title: "Two Sum",
-  difficulty: "easy",
+  difficulty: "Easy",
   related_topics: { Array: true, "Hash Table": true },
   similar_questions: {
     167: true,

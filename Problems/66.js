@@ -20,7 +20,7 @@ var plusOne = function (digits) {
 
 module.exports = {
   title: "Plus One",
-  difficulty: "easy",
+  difficulty: "Easy",
   related_topics: { Array: true },
   similar_questions: { 43: true, 67: true, 369: true, 989: true },
 };

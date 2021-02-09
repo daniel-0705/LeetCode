@@ -19,7 +19,7 @@ var missingNumber = function (nums) {
 
 module.exports = {
   title: "Missing Number",
-  difficulty: "easy",
+  difficulty: "Easy",
   related_topics: { Array: true, Math: true, "Bit Manipulation": true },
   similar_questions: { 41: true, 136: true, 287: true, 765: true },
 };

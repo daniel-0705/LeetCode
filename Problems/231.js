@@ -24,7 +24,7 @@ var isPowerOfTwo = (n) => {
 
 module.exports = {
   title: "Power of Two",
-  difficulty: "easy",
+  difficulty: "Easy",
   related_topics: { Math: true, "Bit Manipulation": true },
   similar_questions: { 191: true, 326: true, 342: true },
 };

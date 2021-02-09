@@ -15,7 +15,7 @@ var reverseString = function (s) {
 
 module.exports = {
   title: "Reverse String",
-  difficulty: "easy",
+  difficulty: "Easy",
   related_topics: { "Two Pointers": true, String: true },
   similar_questions: { 345: true, 541: true },
 };
